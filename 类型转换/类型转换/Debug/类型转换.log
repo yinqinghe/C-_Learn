@@ -1,0 +1,5 @@
+﻿  cin.cpp
+D:\C#\C++\类型转换\类型转换\cin.cpp(15,17): warning C4305: “初始化”: 从“int”到“char”截断
+D:\C#\C++\类型转换\类型转换\cin.cpp(15,13): warning C4309: “初始化”: 截断常量值
+D:\C#\C++\类型转换\类型转换\cin.cpp(49,17): error C2660: “std::basic_istream<char,std::char_traits<char>>::peek”: 函数不接受 1 个参数
+D:\Visual Studi\VC\Tools\MSVC\14.29.30133\include\istream(552,33): message : 参见“std::basic_istream<char,std::char_traits<char>>::peek”的声明

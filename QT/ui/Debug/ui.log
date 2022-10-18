@@ -1,0 +1,11 @@
+﻿  uic ui.ui
+  rcc ui.qrc
+  moc ui.h
+   RCC: Warning: No resources in 'D:\C#\C++\QT\ui\ui.qrc'.
+  ui.cpp
+  main.cpp
+D:\C#\C++\QT\ui\ui.h(14,17): error C7539: “ui”: 用户声明的构造函数的类不能具有名称与类相同的成员 (编译源文件 main.cpp)
+D:\C#\C++\QT\ui\ui.h(14,17): error C7539: “ui”: 用户声明的构造函数的类不能具有名称与类相同的成员 (编译源文件 ui.cpp)
+D:\C#\C++\QT\ui\ui.cpp(4,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C#\C++\QT\ui\ui.cpp(4,5): error C2063: “ui::ui”: 不是一个函数
+D:\C#\C++\QT\ui\ui.cpp(4,25): error C3867: “QObject::parent”: 非标准语法；请使用 "&" 来创建指向成员的指针

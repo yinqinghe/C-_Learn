@@ -1,0 +1,5 @@
+﻿  moc swidget.h
+  swidget.cpp
+  widget.cpp
+  moc_swidget.cpp
+  窗口切换.vcxproj -> D:\C#\C++\QT\窗口切换\Debug\窗口切换.exe

@@ -1,0 +1,5 @@
+﻿  uic mainwindow.ui
+  main.cpp
+  mainwindow.cpp
+  moc_mainwindow.cpp
+  MainWindow.vcxproj -> D:\C#\C++\QT\窗口切换\Debug\MainWindow.exe
